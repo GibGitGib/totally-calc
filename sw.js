@@ -2,7 +2,7 @@
 // Phase 2: PWA offline support
 // Caches the app shell + CDN dependencies for offline use.
 
-const CACHE_NAME = 'voice-calc-v3-1';
+const CACHE_NAME = 'voice-calc-v3-2';
 const CDN_URLS = [
   'https://unpkg.com/react@18/umd/react.development.js',
   'https://unpkg.com/react-dom@18/umd/react-dom.development.js',
